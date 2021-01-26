@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Mitt 
 - 🔭 I'm currently working in china
-- I’m currently learning kubernetes, micro-services and a lot of new
+- 🌱 I’m currently learning kubernetes, micro-services and a lot of new
 - 🤔 I’m looking for help with NO FRIENDS
 - 💬 Ask me about any what i can help
 - 📫 How to reach me: i@mitt.fun
