@@ -7,6 +7,9 @@
 - 🐱‍💻 I am lazy guy without computer
 - 🐱‍👤 My blog is [https://blog.mitt.fun](https://blog.mitt.fun) and you will found nothing
 
+![]( https://steins-gate-visitor-count.greenhandatsjtu.repl.co/MittWillson)
+
+
 <!--
 **MittWillson/MittWillson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
