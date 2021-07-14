@@ -5,7 +5,7 @@
 - 💬 Ask me about any what i can help
 - 📫 How to reach me: i@mitt.fun
 - 🐱‍💻 I am lazy guy without computer
-- 🐱‍👤 My blog is [https://blog.mitt.fun](https://blog.mitt.fun) and you will found nothing
+- 🐱‍👤 My blog is [https://blog.mitt.fun](https://blog.mitt.fun) and you will find NOTHING
 
 <!--
 **MittWillson/MittWillson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
