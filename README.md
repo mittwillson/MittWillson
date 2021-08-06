@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Mitt 
-- 🔭 I'm currently working in china
-- 🌱 I’m currently learning kubernetes, micro-services and a lot of new
+- 🔭 I'm currently working on Blockchains
+- 🌱 I’m currently learning kubernetes, micro-services, Darwinia, Polkadot and a lot of new
 - 🤔 I’m looking for help with NO FRIENDS
 - 💬 Ask me about any what i can help
-- 📫 How to reach me: i@mitt.fun
+- 📫 How to reach me: mitt@mitt.fun
 - 🐱‍💻 I am lazy guy without computer
 - 🐱‍👤 My blog is [https://blog.mitt.fun](https://blog.mitt.fun) and you will find NOTHING
 
