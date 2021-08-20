@@ -6,7 +6,7 @@
 - 📫 How to reach me: mitt@mitt.fun
 - 🐱‍💻 I am lazy guy without computer
 - 🐱‍👤 My blog is [https://blog.mitt.fun](https://blog.mitt.fun) and you will find NOTHING
-- I will always 18 age
+- 🌪 I will always 14 age and keep the memory about you
 
 <!--
 **MittWillson/MittWillson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
