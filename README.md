@@ -1,10 +1,9 @@
 ### Hi there 👋 I am Mitt 
-- 🔭 I'm currently working on Blockchains
-- 🌱 I’m currently learning kubernetes, micro-services, Darwinia, Polkadot and a lot of new
-- 🤔 I’m looking for help with NO FRIENDS
+- 🔭 I'm currently working on [Subscan](https://www.subscan.io)
+- 🌱 I’m currently learning kubernetes, micro-services, Substrate, Blockchains and a lot of new
 - 💬 Ask me about any what i can help
 - 📫 How to reach me: mitt@mitt.fun
-- 🐱‍💻 I am lazy guy without computer
+- 🐱‍💻 I am lazy guy
 - 🐱‍👤 My blog is [https://blog.mitt.fun](https://blog.mitt.fun) and you will find NOTHING
 - 🌪 I will always 14 age and keep the memory about you
 
