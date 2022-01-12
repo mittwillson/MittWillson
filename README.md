@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning kubernetes, micro-services, Substrate, Blockchains and a lot of new
 - 💬 Ask me about any what i can help
 - 📫 How to reach me: mitt@mitt.fun
-- 🐱‍💻 I am lazy guy
-- 🐱‍👤 My blog is [https://blog.mitt.fun](https://blog.mitt.fun) and you will find NOTHING
-- 🌪 I will always 14 age and keep the memory about you
+- 🌪 I loved much and all gone, Truly I love you and fuck you Carl
 
 <!--
 **MittWillson/MittWillson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
