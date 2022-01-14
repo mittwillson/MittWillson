@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning kubernetes, micro-services, Substrate, Blockchains and a lot of new
 - 💬 Ask me about any what i can help
 - 📫 How to reach me: mitt@mitt.fun
-- 🌪 I loved much and all gone, Truly I love you Carl
+- 🌪 I loved much and all gone, Truly I love you Carl but nobody cares
 
 <!--
 **MittWillson/MittWillson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
