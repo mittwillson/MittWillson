@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Mitt 
-- 🔭 I'm currently looking on new job
-- 🌱 I’m currently learning kubernetes, micro-services, Substrate, Blockchains and a lot of new
+- 🔭 I'm currently working at Vast Mediads
+- 🌱 I’m currently learning everything lowest network knowlage
 - 💬 Ask me about any what i can help
-- 📫 How to reach me: mitt@mitt.fun
+- 📫 How to reach me: github@mitt.fun
 - 🌪 I loved much and all gone
 
 <!--
