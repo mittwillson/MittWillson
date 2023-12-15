@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Mitt 
-- 🔭 I'm currently working at Vast Mediads
+- 🔭 I’m currently working as a network engineer
 - 🌱 I’m currently learning everything lowest network knowlage
 - 💬 Ask me about any what i can help
 - 📫 How to reach me: github@mitt.fun
